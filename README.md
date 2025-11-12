@@ -1,6 +1,5 @@
 # 🌦️ Real-Time Weather Data Pipeline
 
-[![CI/CD Pipeline](https://github.com/YOUR_USERNAME/weather-data-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/weather-data-pipeline/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Terraform](https://img.shields.io/badge/Terraform-1.0+-purple.svg)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange.svg)](https://aws.amazon.com/)
@@ -876,58 +875,9 @@ jobs:
           terraform apply -auto-approve
 ```
 
----
 
-## 🤝 Contributing
 
-Contributions welcome! Please follow these steps:
 
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
-
-### Development Guidelines
-
-- Follow PEP 8 style guide
-- Add docstrings to functions
-- Write unit tests for new features
-- Update README for significant changes
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Your Name**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- Inspired by real-world data engineering best practices
-- AWS architecture patterns
-- Apache Software Foundation for Spark and Airflow
-- Open-source community
-
----
-
-## 📚 Additional Resources
-
-- [Project Documentation](docs/)
-- [Architecture Diagrams](docs/architecture/)
-- [API Documentation](docs/api/)
-- [Terraform Modules](terraform/)
 
 ---
 
@@ -935,4 +885,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Last Updated: October 2025*
+
