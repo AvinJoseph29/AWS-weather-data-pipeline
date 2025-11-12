@@ -44,12 +44,6 @@ This project implements a **real-time weather data pipeline** that:
 - **Orchestrates** daily workflows with Apache Airflow
 - **Visualizes** with Power BI dashboards
 
-### Key Metrics:
-- **250+ records/minute** processing capacity
-- **6 unique transformations** applied to each record
-- **99.9% data quality** score
-- **< 5 second** end-to-end latency
-- **$20-30/month** AWS cost (optimized)
 
 ---
 
