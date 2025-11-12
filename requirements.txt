@@ -1,0 +1,37 @@
+# requirements.txt
+# All Python dependencies for the project
+
+# ===================================
+# AWS SDKs
+# ===================================
+boto3==1.26.137              # AWS SDK for Python (S3, Kinesis, etc.)
+botocore==1.29.137           # Low-level AWS SDK
+
+# ===================================
+# Data Processing
+# ===================================
+pandas==2.0.1                # Data manipulation and analysis
+pyarrow==12.0.0              # Fast Parquet file format support
+numpy==1.24.3                # Numerical computing
+
+# ===================================
+# Database
+# ===================================
+psycopg2-binary==2.9.6       # PostgreSQL adapter for Python
+SQLAlchemy==1.4.48           # SQL toolkit and ORM
+
+# ===================================
+# Spark (for local Glue testing)
+# ===================================
+pyspark==3.4.0               # Apache Spark for Python
+
+# ===================================
+# Web & API
+# ===================================
+Flask==2.3.0                 # Web framework (for our Weather API)
+requests==2.31.0             # HTTP library
+
+# ===================================
+# Utilities
+# ===================================
+python-dotenv==1.0.0         # Load environment variables from .env

@@ -1,0 +1,10 @@
+# .gitignore
+.env
+*.pyc
+__pycache__/
+*.log
+.terraform/
+*.tfstate
+*.tfstate.backup
+venv/
+.DS_Store
